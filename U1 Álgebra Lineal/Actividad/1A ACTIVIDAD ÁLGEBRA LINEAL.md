@@ -78,7 +78,7 @@ $$
 x' =
 \begin{bmatrix}
 1 & -2e^{-t} \\
-e^{t} & 1
+e^{t} & -1
 \end{bmatrix} x
 $$
 
