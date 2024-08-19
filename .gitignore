@@ -1,0 +1,78 @@
+*dropbox*
+*.pdf*
+*.epub
+*.Zone.Identifier
+*.docx
+*.doc
+*.xls
+*.xlsx
+*.ppt
+*.pptx
+*.odt
+*.ods
+*.odp
+*.odg
+*.odf
+*.odc
+*.odb
+*.odm
+*.odw
+*.odp
+*.odt
+*.odg
+*.odf
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# SageMath
+*.sage.py
+*.sagews
+*.sobj
+*.sws
+
+# Entornos virtuales
+env/
+venv/
+ENV/
+.venv/
+env.bak/
+venv.bak/
+
+# Archivos de configuración de IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de logs
+*.log
+
+# Archivos de paquetes
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+lib/
+lib64/
+__pypackages__/
+
+# Archivos de pruebas
+.coverage
+.tox/
+.nox/
+.pytest_cache/
+htmlcov/
