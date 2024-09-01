@@ -12,7 +12,7 @@ Analizar sistemas dinámicos lineales de forma cualitativa y cuantitativa
 
 ## Instrucciones 
 
-- Consulta [Kelley, 2013], capítulos 1 y 2.
+- Consulta [Kelley, 2013], capítulos 3 y 4.
 - Redacta tus respuestas en formato Markdown.
 - Puedes utilizar Python para resolver los problemas. 
 - Si utilizas Python, utiliza la sintaxis de Markdown para Python.
